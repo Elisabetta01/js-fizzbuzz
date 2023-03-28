@@ -1,0 +1,26 @@
+.bg-blue{
+     background-color: #00688B;
+}
+
+.box{
+     width: calc(100% / 7 - 2%);
+     margin: 1%;
+     background-color: #4F94CD;
+     aspect-ratio: 1;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+}
+
+.box-green{
+     background-color: #4EEE94;
+}
+
+.box-yellow{
+     background-color: #FFD700;
+}
+
+.box-red{
+     background-color: #DC143C;
+}
